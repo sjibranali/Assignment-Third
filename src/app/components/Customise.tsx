@@ -14,7 +14,7 @@ const Customise = () => {
                     </p>
                 </div> 
                 <button className="flex justify-center items-center w-[171px] h-[63px] bg-[#4f9cf9] rounded-lg px-10 py-5 gap-[10px]">
-                    <p className="inter font-[500px] text-lg w-[67px] h-[23px] leading-[23px] tracking-[-0.02em] text-[#ffffff]">Let's Go</p>
+                    <p className="inter font-[500px] text-lg w-[67px] h-[23px] leading-[23px] tracking-[-0.02em] text-[#ffffff]">Lets Go</p>
                     <div className="flex justify-center items-center w-[10px] h-[10px] border-1   border-white">
                     <Image src={V1} alt='-' className="w-[10px] top-[31.5px] left-[189px] "/>
                     <Image src={V2} alt='-' className="w-[5px] h-[10px] top-[26.5px] left-[194px] "/>
